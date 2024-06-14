@@ -1,0 +1,21 @@
+// 5:16:00
+git init
+git status
+git add app.js
+git add .   //to add all files
+git commit -m "initial commit"
+
+echo "# node-js-app" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/kumarnippu000006/node-js-app.git
+git push -u origin main
+
+…or push an existing repository from the command line
+git remote add origin https://github.com/kumarnippu000006/node-js-app.git
+git remote
+git push origin master
+git branch -M main
+git push -u origin main

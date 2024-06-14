@@ -1,0 +1,14 @@
+localhost:4000/users/all
+localhost:4000/users/new
+localhost:4000/users/all?keyword=test
+localhost:4000/users/all?keyword=test&category=framework
+localhost:4000/users/all?keyword=test&category=framework&page=3
+localhost:4000/userid
+localhost:4000/users/all/userid
+localhost:4000/userid?id=6667eef8bf88e95975679b7a
+localhost:4000/userid/special
+localhost:4000/userid/nippukumar
+localhost:4000/users/new
+localhost:4000/users/all
+localhost:4000/users/userid/special
+localhost:4000/users/userid/666816a29ac77d581b19c3b4
