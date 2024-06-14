@@ -21,3 +21,6 @@ git branch -M main
 git push -u origin main
 git config --global user.email "you@example.com"
 git config --global user.email "kumarnippu000006@gmail.com"
+
+download git code in folder
+git clone https://github.com/kumarnippu000006/node-js-app.git
